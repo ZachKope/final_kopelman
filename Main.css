@@ -26,6 +26,7 @@
 
 .byline {
 	font-family: Georgia, serif;
+	padding-bottom: 10px;
 }
 
 p {
@@ -41,14 +42,32 @@ h3 {
 
 .caption {
 	color: grey;
-	font-size: 12px;
+	font-size: 10px;
 }
 
 .headline {
-	font-size: 43px;
+	font-size: 39px;
 	font-family: georgia, sans-serif;
+	padding-top: 10px;
 }
 
 .jumbotron {
 	background-color: #000E54 !important;
+
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color:orange ;
+}
+
+.social {
+	color: white;
+}
+
+.social:hover {
+	color: white;
 }
