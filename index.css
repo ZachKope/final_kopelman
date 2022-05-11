@@ -1,0 +1,73 @@
+/*This is the CSS page for our final Bootstrap template.*/
+
+.section {
+	text-align: left;
+
+}
+
+.accordion-button:not(.collapsed), .accordion-button:focus {
+	font-family: Georgia, serif;
+	background-color: #000E54;
+	color: white;
+	margin-bottom: 10px;
+}
+
+.footer p {
+	background-color: white;
+	text-align: center;
+	font-size: 16px;
+	color: #000E54;
+}
+
+.dek {
+	font-size: 20px;
+	font-family: Roboto Condensed, sans-serif;
+}
+
+.byline {
+	font-family: Georgia, serif;
+	padding-bottom: 10px;
+}
+
+p {
+	font-family: Roboto Slab, serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+h3 {
+	font-family: Roboto Slab, serif;
+	font-weight: 400;
+}
+
+.caption {
+	color: grey;
+	font-size: 10px;
+}
+
+.headline {
+	font-size: 39px;
+	font-family: georgia, sans-serif;
+	padding-top: 10px;
+}
+
+.jumbotron {
+	background-color: #000E54 !important;
+
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color:orange ;
+}
+
+.social {
+	color: white;
+}
+
+.social:hover {
+	color: white;
+}
